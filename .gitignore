@@ -1,0 +1,16 @@
+.vscode/settings.json
+
+/.metadata/
+RemoteSystemsTempFiles/
+/.recommenders/
+.settings/
+.classpath
+.project
+/Servers/
+/.README.md.html
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
